@@ -1,5 +1,5 @@
 {
   "name": "jvectormap-build",
-  "version": "1.2.3",
-  "description": "A built version of jVectorMap, suitable for consumption by bower (World Map, USA Map)",
+  "version": "1.2.4",
+  "description": "A built version of jVectorMap, suitable for consumption by bower (World Map, USA Map)"
 }
